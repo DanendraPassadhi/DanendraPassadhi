@@ -7,6 +7,6 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,js)]()
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,php,laravel)]()
 <br>
 [![My Skills](https://skillicons.dev/icons?i=ps,pr,git,vscode,figma)]()
