@@ -10,3 +10,9 @@
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,php,laravel)]()
 <br>
 [![My Skills](https://skillicons.dev/icons?i=ps,pr,git,vscode,figma)]()
+
+<br><br>
+<h3 align="center">STREAKK🔥</h3>
+<br>
+
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DanendraPassadhi" alt="GitHub Streak" /></a></p>
