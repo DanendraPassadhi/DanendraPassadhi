@@ -32,7 +32,9 @@
 
 ### 💻 Programming Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,php,laravel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,php,python,dart&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=laravel,flutter&theme=dark" />
 </p>
 
 ### 🎨 Tools & Technologies
