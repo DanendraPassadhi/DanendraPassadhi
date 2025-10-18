@@ -1,6 +1,7 @@
 <div align="center">
 
-# 👋 Hi, I'm Danendra Nayaka Passadhi
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+Danendra+Nayaka+Passadhi)](https://git.io/typing-svg)
+
 
 ### 🎓 Student at State Polytechnic of Malang
 
