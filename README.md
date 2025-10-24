@@ -12,7 +12,7 @@
 ## 🚀 About Me
 
 💻 Passionate developer and tech enthusiast  
-🌱 Currently learning and growing in the field of software development  
+🌱 Currently learning and growing in the field of machine learning 
 🎯 Focused on web development and creative digital solutions  
 📍 Based in Malang, East Java, Indonesia
 
